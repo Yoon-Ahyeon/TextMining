@@ -1,4 +1,4 @@
-### TextMining Chapter 03
+## TextMining Chapter 03
 
 #### 설치한 가상환경
 pyTorch
