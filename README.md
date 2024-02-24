@@ -13,5 +13,6 @@
 
 
 ※ 주의사항
+
 책에서는 chapter03는 PyTorch를 사용하므로, tensorflow가 설치된 가상환경 이외 다른 가상환경을 만들어 사용한다.
 그러므로, TestMining_ver01 폴더에는 Chapter02까지 수행되어 있다. 
