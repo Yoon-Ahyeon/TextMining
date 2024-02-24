@@ -2,6 +2,8 @@
 
 #### 설치한 가상환경
 pyTorch
+sentencepiece
+KoBERT (https://github.com/SKTBrain/KoBERT.git#egg=kobert_tokenizer&subdirectory=kobert_hf)
 
 #### 공지사항
 
